@@ -19,3 +19,33 @@ Include a screenshot or GIF here showing the detection in action.
 Installation
 
 Clone the repository:
+  git clone https://github.com/FKhan14/Object-Detection.git
+Open index.html in your preferred browser.
+
+No additional installations are required; everything runs in-browser.
+
+Usage
+
+Open the app in a browser.
+
+Allow webcam access if using real-time detection.
+
+Upload an image or start the webcam feed.
+
+Watch objects being detected in real-time!
+
+Technologies Used
+
+JavaScript – Core logic for object detection.
+
+HTML & CSS – User interface and styling.
+
+TensorFlow.js / Pretrained Models – For object detection (if applicable).
+
+Contributing
+
+Contributions are welcome! Feel free to fork the repo, make improvements, and submit pull requests.
+
+License
+
+This project is open-source under the MIT License.
